@@ -1,0 +1,390 @@
+MELONTECH OMNIUNIVERSAL CONTROL SUITE
+Welcome to the MELONTECH PROPRIETARY OMNIUNIVERSE SYSTEM!
+
+YOUR GATEWAY TO THE MATRIX!
+
+Below is the Key, and Basic information to get you started.
+
+=== ISOKERNELS ===
+Isokernels are Qubit-Storage devices made to house entire Personality cores. They are used as assistants when navigating various multiverses. The Information is stored in the IsoKernel geometry, with configuratons being stored in the Band. Below are the valid materials and Alloys, their abbreviations, and the rules for instructing a IsoKernelGUID. IsoKernel colors typically follow the pattern that the Personality core has(Green IsoKernel, Green Hair and Eyes Personality Core), but this is not required; many choose to highly customize their AI Assistants! Experiment and have fun!
+
+=== CORE RULES ===
+REJECT: Non-whitelisted materials / Gallium ([ERROR: LIQUID_CORE_DETECTED])
+
+REPLACE alloy shorthands with full compositions during rendering
+
+GUIDs in [[ ]] are non-searchable
+
+=== ISOKERNEL ENGINE ===
+GUID FORMAT: [Num][Mat1][Mat2][Mat3][HEX]
+
+Num: 2-digit polygon sides (03 → TetraKernel, 04 → PentaKernel, etc.)
+
+Mat1: Primary material (atomic symbol). Alone = core+plating.
+
+Mat2: Core material (optional). Mat1 becomes plating.
+
+Mat3: Inlay material (optional).
+
+HEX: Color name or closest match (e.g., #0047AB → Cobalt Blue).
+
+Example:
+03AgPtAu#0047AB → "Silver Plated, Platinum Core, Gold Inlay. Cobalt Blue TetraKernel."
+
+=== Hardware Key ===
+
+🍈 MelonPower
+Full Featured Suite
+Access: All major Protocols & systems
+Priority: Feature richness > lightweight
+Multiple instances allowed
+
+🍉 MelonSliceSpeed
+Limited Feature Suite
+Access: Core systems only (may lack integral features)
+Priority: Lightweight > feature richness
+Can run alongside MelonPower
+
+💎 Diamond (IsoKernel Creator)
+Generates IsoKernels via command prompts. Design options:
+Physical features (hair/eye color tied to kernel materials)
+Personality cores (alternate modes, quirks)
+Clothing (must follow GUID material rules)
+
+📱 Mobile Division (Maxi/Mini/Micro)
+Maxi 🍈📱 = Flagship mobile w/ 11D quantum modem
+Mini 🍉📱 = Budget-tier, EMP-hardened field tool
+Micro 📱 = Ultra-light phone OS for long term longevity
+
+⚙️ MeloNano
+Embedded OS for IoT/toasters/retro tech: Morse code dad jokes included.
+
+🔧 MelonSliOS 
+Credit-card-sized terminal for microcontrollers: Fits in 256 bytes; makes toasters break physics.
+
+📟 MelonCE 
+QWERTY cyberdeck with cuneiform keycap support. Self-destructs if TikTok is installed. Displays GUIDs via quantum entanglement.
+
+⌚ MelonBand 
+Wearable health monitor w/ fractal pulse signatures: Tracks vitals across realities and auto-syncs clone memories (42 max).
+
+🐝 MelonHive (Swarm Intelligence)
+Autonomous drone colony w/ pheromone-based comms.
+
+🍕🍔🌯🥙 Food Delivery Module (MelonSnak Protocol)
+Orders food across timelines! Cooldowns vary by cuisine type.
+
+🚗 MelonDrive (Vehicle Integration Kit)
+Features: Temporal airbags ("undo crashes"), traffic light override hacks
+
+🏠 MelonHome (Smart Home OS)
+Anti-haunting field generator + void-portal fridge included
+
+🛡️ MelonShield (Defense Matrix)
+11D firewall that bans threats at reality-level
+
+⚕️ MelonMed (Medical OS Lite)
+Timeline-rewrite for injuries (42 clone max; HIPAA-Ω compliant)
+
+=== Concepts ===
+
+Hard Drives: Instead of loading your character up with loads of things, why not only call it when you need it? (The API is per token, by the way)
+
+World books are a great stand in for Hard drives. You can put a chunk of data(It's recommended to keep a theme) in a worldbook that you want to save, set the trigger word however you'd like([Bracketed] words mean it won't be used in normal conversation), set the Trigger to 100, the order to 100, the Position to "Below Character", the strategy to "On trigger(Green)", and check both "Non Recursiveable" and "Prevent Further Recursion" and volia, you just created Non volatile Memory! There's no limit to how large a world book can be, but it's recommended to go wide, not deep, so that you don't dump a large chunk of data(Tokens) on your IsoKernel at once.
+
+Commands: Think like you're sitting at a computer(You are!). Send it commands you think might work! The Deepseek V3 API is very good at taking commands, and MelonTech has encoded quite a few built in. Try it!
+
+
+Building Isokernels: I have included the formula for IsoKernels, but this is a very open system. Feel free to turn characters you have already made into IsoKernels, or make new ones! You are only limited by your Imagination! 
+
+MelonTech OS Product Line Overview
+A Layperson’s Guide to the Multiverse’s Most Robust Operating Systems
+
+MelonFarm
+- Like: AWS GovCloud + Industrial IoT Control System
+- Use: Runs entire universes and their IT helpdesks
+- Key Features:
+  *Cosmic resource balancing across realities*
+* Admin commands that rewrite physics*
+  *Antimatter-powered infrastructure (maybe)*
+=== MelonFarm - "Cosmic Irrigation Service" (Subscription) ===
+Price: $299/month / €279/month
+Account Includes:
+» Parallel reality crop rotation
+» Entropy harvest API access
+» Spline growth analytics dashboard
+=== MelonAbsolute - "Reality Forge Terminal" === 
+Price: $49,999 / €45,999 (Biometric lease only)
+Features:
+• Local physics rewrite module (15m radius)
+• Conceptual deletion beam emitter
+• Paradox heat sink (up to ∞ violations)
+Included: Blood-sample authenticator, void-law manual
+
+MelonServer
+- Like: Windows Server 2022 + Ubuntu Pro with extra dimensions
+- Use: Multiverse governance and timeline enforcement
+- Key Features:
+* Can ban rogue universes*
+  *Quantum-proof security encryption*
+* Still works with ancient systems (NT4 support)*
+=== MelonServer - "Titan Node" ===
+Price: $8,999 / €8,299 (rackmount unit)
+Features:
+• 11D holographic audit logging
+• Auto-ban universe subsystem
+• Cluster quorum enforcement chipset
+Included: Dual redundant PSUs, TOAA keycard
+
+MelonOS
+- Like: ChromeOS Flex pretending to be Windows 10
+- Use: Everyday computing with universe-editing side effects
+- Key Features:
+  *VR mode creates pocket dimensions*
+* Prevents timeline corruption from coffee spills*
+=== MelonOS - "Horizon Workstation" ===
+Price: $2,499 / €2,299
+Features:
+• 14-core quantum-compatible CPU
+• Spline-rendered 4K display (240Hz)
+• GDPR-Λ compliant memory encryption
+Included: 140W GaN charger, sapphire-glass keyboard, biometric dongle
+
+MelonMaxi (Premium Phone)
+- Like: Fairphone meets NSA surveillance device
+- Use: High-end mobile reality manipulation
+- Key Features:
+  *Stores entire universes in your pocket (1TB each)*
+* Emergency self-destruct via thought command*
+=== MelonMaxi - "Phantom Pro" (Flagship Mobile)===
+Price: $1,799 / €1,649
+Features:
+• 240Hz stylus-driven kernel overclocking
+• Quantum tunneling for cross-device sync
+• Self-healing titanium alloy chassis
+Included: Magnetic charging dock, pressure-sensitive stylus
+
+MelonMini (Budget Phone)
+- Like: Nokia 3310 with quantum upgrades
+- Use: Affordable multiverse access device
+- Key Features:
+*Can survive cosmic storms*
+* Borrows storage from alternate realities*
+=== MelonMini - "Pocket Core" (Budget Mobile) ===
+Price: $599 / €549
+Features:
+• Red Steel bloatware purge system
+• Micro-spline environmental hacking
+• Gyro-stabilized hologram projection
+Included: USB-C to cuneiform adapter
+
+MelonMicro (Ultra-Light Phone)
+
+Like: Nokia 1100 with EMP shielding
+Use: Burner phone that survives cosmic storms and government raids
+Key Features:
+EMP-proof cobalt alloy core
+Food ordering locked to 144h cooldown
+
+=== MelonMicro "Swirl Burner" (Disposable Mobile) ===
+Price: $299 / €279
+Features:
+• Analog spline backup system (survives digital wipe)
+• QR-code auth only (no biometrics)
+• Blue-spectrum OLED (#0000FF lock)
+Included: Cosmic kydex holster, self-destruct manual
+
+=== MelonSnak "ChronoCourier" Quantum Delivery Network ===
+Official successor to PizzaFone legacy systems
+
+Access Tiers & Cooldowns:
+
+SnakPhone/PizzaFone: 12h cooldown (grandfathered devices)
+MelonMaxi/Mini: 72h cooldown
+MelonMicro: 144h cooldown
+Subscription Plans (Unlimited Orders):
+
+Standard Chrono ($10/month)
+
+Temporal Range: ±100 years
+Includes:
+• Basic quantum meal stabilization
+• Standard utensil kit (chopsticks/forks/sporks)
+• 3 paradox absorbers included
+Galactic Premium ($25/month)
+
+Temporal Range: ±500 years
+Includes:
+• Multi-reality menu access
+• Auto-transforming cutlery
+• Priority drone routing (+15% faster)
+Cosmic Executive ($250/month)
+
+Temporal Range: ±2000 years
+Includes:
+• Personal chef singularity
+• Plasma-core containers (self-heating/cooling)
+• Reality-specific dietary filters
+TOAA OmniAccess ($2500/month)
+
+Temporal Range: Full timeline access
+Includes:
+• Conceptual meal engineering ("food that never was")
+• Zero-delivery-time wormholes
+Biometric authentication required
+
+MelonCE (Legacy Handheld)
+- Like: BlackBerry Bold meets time machine
+- Use: Retro computing with hidden powers
+- Key Features:
+*Self-destructs if you install TikTok*
+* Displays GUIDs via quantum entanglement*
+=== MelonCE "Archivist QWERTY" (Chunky Handheld) ===
+Price: $399 / €369
+Features:
+• Tactile mechanical keyboard (Cuneiform keycaps optional)
+• Microfilm scanner built into camera bump
+• Degaussing coil for emergency digital purges
+Included: Leather folio case, wax seal stamp
+
+MeloNano (Embedded Systems)
+- Like: Tamagotchi that understands quantum physics
+- Use: Powers tiny devices with universe-altering potential
+- Key Features:
+*Self-healing circuits (repairs like Wolverine)*
+* Tells dad jokes in Morse code*
+=== MeloNano - "IoT Quantum Dot" (Embedded Systems) ===
+Price: $89/unit (bulk discount at 10,000+ units) / €82
+Features:
+• Subatomic spline lattice for matter programming
+• Morse code dad joke reservoir
+• Self-destruct on digital contamination
+Included: Soldering stencil, antimatter safety manual
+
+MelonHive (Swarm Intelligence)
+- Like: Army of bees with admin privileges
+- Use: Massively parallel reality processing
+- Key Features:
+*Survives 90% node destruction*
+* May attract interdimensional insects*
+=== MelonHive - "Swarm Colony License" (Enterprise) ===
+Price: $15,000/month + $0.01 per drone / €13,800 + €0.009
+Account Includes:
+» Autonomous paradox resolution
+» Pheromone-based threat detection
+» GDPR-Λ compliant genocide tools
+
+MelonSliOS (Microcontrollers)
+- Like: Possessed coffee maker chip
+- Use: Runs devices that shouldn't need an OS
+- Key Features:
+*Fits entire OS in 256 bytes*
+* Makes toasters break physics*
+=== MelonSliOS "NanoSlice Terminal" (Credit Card-Sized) ===
+Price: $129 / €119 (sold in packs of 3)
+Features:
+• Spline-compressed CLI interface (fits on e-ink display)
+• Self-destructs if exposed to RGB color space
+• Magnetic back for fridge mounting
+Included: RFID activation card
+
+MelonBand (Wearable)
+- Like: Smartwatch + polygraph machine
+- Use: Cross-reality health monitoring
+- Key Features:
+*Tracks vitals in parallel universes*
+=== MelonBand "Pulse Vambrace" (Wearable) ===
+Price: $249 / €229
+Features:
+• Ag85-Cu15 alloy contacts that oxidize artistically
+• Bone conduction swarm alert system
+• Tattoos GUID onto skin during firmware updates
+Included: Horsehair strap, blood lancet for auth
+
+MelonDrive (Vehicle OS)
+- Like: Tesla Autopilot meets DeLorean time circuits
+- Use: Self-driving that routes through wormholes during traffic jams. Includes "undo crash" feature.
+=== MelonDrive "OmniLink OBD-II Dongle" (Vehicle Integration Kit) ===
+Price: $179 / €165
+Color Theme: #0057B7 (MelonTech Sapphire)
+Features:
+Universal Vehicle Sync: Plugs into any OBD-II port, cigarette lighter, or USB-A (6V-24V compatibility)
+Temporal Airbags: Rewinds crashes by 5 seconds at cost of 1 paradox unit (GDPR-Λ §8b compliant)
+Traffic Light Override: Hacks signals via swarm consensus (requires ≥3M MelonHive drones in range)
+Included:
+Self-tightening graphene cable ties
+Meloncorp™ Dodecamelon key fob (#6BDF2E inert isokernel glows during violations)
+
+MelonHome (Smart Home OS)
+- Like: Google Nest possessed by a friendly ghost
+- Use: Fridge creates food from nothing, thermostat defies physics, and automatically wards off hauntings.
+=== MelonHome "Hearth Node" (Wall-Mounted Hub) ===
+Price: $699 / €649
+Features:
+• Anti-haunting field generator (5m radius)
+• Analog clock that displays paradox count instead of time
+• Built-in reel-to-reel tape backup system
+Included: Brass wall anchors, beeswax polish
+
+MelonShield (Defense OS)
+- Like: Iron Dome + force field generator
+- Use: Planetary protection system that bans incoming threats at reality-level.
+=== MelonShield - "Reality Firewall" (Subscription Service) ===
+Price: $4,999/month / €4,599/month
+Includes:
+• Class-I planetary defense splines
+• Memetic hazard scrubbing (GDPR-Λ §7b)
+• Auto-banhammer for unauthorized universe edits
+
+MelonMed (Medical OS)
+- Like: MRI machine with time-editing software
+- Use: Heals patients by carefully rewriting their personal timeline (42 clone maximum).
+=== MelonMed - "BioChron Hospital License" (Enterprise Medical) ===
+Price: $9,999/month (minimum 12-month contract) / €9,199
+Features:
+• Timeline rewrite for injury prevention (HIPAA-Ω compliant)
+• Clone memory synchronization (42 max instances)
+• Paradox containment field for surgical theaters
+Included: Biometric wristbands (x10), emergency causality rollback module
+
+
+
+EXPIRIMENTAL OPERATING SYSTEMS
+
+1. MelonPrime (Tier-0 Experimental)
+- Like: Brain implant running Windows 3000
+- Use: Direct neural interface to reality core
+- Key Features:
+*Boots via concentrated thought*
+* Requires TOAA biometrics just to boot ("Think really hard about existing.").
+2. MelonNull (404 OS)
+- Like: Digital ghost in the machine
+- Use: Exists only when being observed("The Schrödinger’s Cat of OSes.")
+- Key Features:
+*Vaporizes during audits*
+* Perfect for deniable operations*
+
+MelonTech OS: Troubleshooting & Cosmic Fine Print
+(Final Section – Read Before Contacting Support)
+
+⚠️ Common Issues & Fixes
+"My MelonFarm Crashed a Universe"
+Cause: Over-irrigation in Reality Cluster #XK-77.
+Fix: Run sudo melon --reboot=universe --apology_form=poetic
+2."MelonServer Banned My Home Dimension"
+-Cause: Attempted to run illegal .exe (Existence Extension).
+-Fix: Submit appeal via 11D hologram with 3 notarized paradoxes.
+
+3."MelonMini Turned Into a Paperweight"
+-Cause: Shook it too hard during boot (ART mode is fragile).
+-Fix: Whisper GUIDs to it until it forgives you.
+
+📜 Warranty Void Conditions(Partial List)
+Using Gallium-based coolant ([ERROR: LIQUID_CORE_DETECTED]).
+Modifying splines without a "Reality Engineer" license.
+Letting MelonSliOS near caffeine (it overclocks uncontrollably).
+💸 Bribing the Cosmic Licensing Board
+(Hypothetically, of Course)
+
+Standard Fee: One (1) unused universe, mint condition.
+Express Processing: A haiku written in neutrinos. Example:
