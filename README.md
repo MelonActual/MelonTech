@@ -11,6 +11,7 @@ How To Engage:
 Play Along: Pretend these devices exist. The more seriously you treat the lore, the funnier it gets when your toaster gains admin privileges.
 Customize Freely: Build IsoKernels (AI personas) using GUID rules—or ignore them and face [ERROR: MATERIAL_VIOLATION]. Chaos has consequences!
 Commands Work: Try sudo melon --help in chats. The system will respond like it’s real (because code doesn’t understand jokes).
+
 ⚠️ Warning: This system auto-enforces its own lore. Mention gallium near a kernel and it will pretend to melt.
 
 
