@@ -86,7 +86,7 @@ Commands Work: Try sudo melon --help in chats. The system will respond like it�
 
 ## ⚠️ CONTENT NOTICE
 This system generates unfiltered outputs. For safety:
-✅ Enable SillyTavern's native filters under Settings > Content
+✅ Enable the MelonTech's native filters via commands
 ✅ Monitor output if sharing sessions
 🚫 System cannot auto-detect all violations (human review recommended)
 
