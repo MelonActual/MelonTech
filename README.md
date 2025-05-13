@@ -14,9 +14,10 @@ Commands Work: Try sudo melon --help in chats. The system will respond like it‚Ä
 
 ‚ö†Ô∏è Warning: This system auto-enforces its own lore. Mention gallium near a kernel and it will pretend to melt.
 
+### MelonTech Installation Guide "The Easy way"(SillyTavern)
+Import everything using Sillytavern's GUI UI. It should auto complete.
 
-
-### MelonTech Installation Guide (SillyTavern)
+### MelonTech Installation Guide "The hard way"(SillyTavern)
 #### Required Files:
 1. JSON Preset (MELONTECHFULLSUITE.json)
 2.Character Card(MELONYMKI.card.png)
@@ -26,18 +27,8 @@ Commands Work: Try sudo melon --help in chats. The system will respond like it‚Ä
 
 ### Step 1: Install JSON Preset
 1. Navigate to SillyTavern/public/presets/
-2. Paste MELONTECHFULLSUITE.json with these key settings:
-   json
-   {
-     "temperature": 0.7,
-     "frequency_penalty": 0.2,
-     "presence_penalty": 0.1,
-     "stop_sequence": ["[SYSTEM]", "[ERROR"],
-     "bias_tokens": {
-       "[TOOL:": +0.5,
-       "[ERROR:": -0.3
-     }
-   }
+2. Paste MELONTECHFULLSUITE.json into the folder:
+
    
 
 ---
