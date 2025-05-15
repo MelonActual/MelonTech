@@ -135,6 +135,7 @@ We've specifically engineered these systems to eliminate common frustrations - n
 - **Storage:** 30PB UFS 4.1 with antimatter backup array
 - **Ports:** Neutrino comm link x8, reality anchor ports x4
 
+---
 
 **MelonTech Server Solutions: Technical Specifications**
 
@@ -202,6 +203,8 @@ The MelonTech server portfolio spans from edge computing to quantum infrastructu
 - **Housing:** Kydex shell w/ #0000FF cosmic swirl
 
 **Use Case:**: Backpack-deployable compute node for warzones.
+
+---
 
 **MelonTech Display Solutions**
 Our visual interface systems redefine clarity and durability across all use cases. The premium monitor lineup features 11D holographic projection cores with self-healing sapphire substrates that maintain perfect calibration through EMP events. Mid-range options deliver professional-grade color accuracy with our proprietary quantum dot layering, while budget models still outperform commercial displays with military-spec shock mounting and Gorilla Glass DX+ protection.
@@ -283,6 +286,7 @@ Key innovations include:
 - **Brightness:** ∞ nits (*Self-Illuminating Holograms*)
 - **Chassis:** Neutronium-Forged w/ #FF0000 Nebula Core
 
+---
 
 **MelonTech Peripheral Kits: Technical Overview**
 
@@ -425,6 +429,8 @@ All peripheral kits share:
 - **Mouse**: Entanglement Pointer (*Manipulates Objects in Parallel Universes*)
 - **Headset**: Neural Oscilloscope (*Audits Timeline Integrity*)
 
+---
+
 **MelonTech Wearables: Technical Overview**
 
 The MelonTech wearable ecosystem is designed for seamless integration across consumer, enterprise, and specialized applications. Each tier offers distinct functionality while maintaining interoperability within the BerryVerse framework.
@@ -537,6 +543,7 @@ Designed for quantum development and high-clearance operations:
 - **Core Stack:** Full MELDOS-NG + 20-core IsoKernel Host
 - **BerryTag:** `RR-XDEV-01` (Blood Auth Required)
 
+---
 
 **MelonTech Phones: Technical Specifications**
 
@@ -658,6 +665,7 @@ Shared technical highlights across all product lines:
 - **Chassis:** Grade 5 titanium unibody (#0000FF anodized) with replaceable bumper
 
 ---
+
 ### **🍇 MELONBERRY SERIES** *(Premium Tier - Vine Line)*
 #### **MB-VINE-08** *(Moonmelon Performance Phone)*
 `[STATUS:PRODUCTION]`
@@ -946,6 +954,8 @@ Shared technical highlights across all product lines:
 ✔ Spline-Reticulated Holographic Matrix
 ✔ GDPR-Λ Compliant Data Purge Triggers
 
+---
+
 **MelonTech BerryBriks: Technical Overview**
 
 The term "BerryBrik" refers to MelonTech's line of rugged, single-purpose communication and monitoring devices designed for field deployment. The nomenclature derives from three core characteristics:
@@ -1054,9 +1064,6 @@ All BerryBriks share:
 
 ### **🥬 Bitter Gourd Pro BerryBrik Catalog**
 *(Enterprise-Grade Modular Tech Bricks)*
-
----
-
 #### **1. MB-BIZ-EM01 | Tactical Emergency Brick**
 **BerryTag:** `MB-BIZ-05EM`
 - **Core Stack:** MelonMicro X (Air-Gapped Kernel)
@@ -1214,6 +1221,7 @@ The MelonTech PDA series represents the pinnacle of portable computing, designed
 
 **Chassis:** Grade 5 Titanium w/ #000000 Void Matrix Coating
 
+---
 
 **MelonTech Gaming: Built Different**
 
