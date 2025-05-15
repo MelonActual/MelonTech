@@ -21,7 +21,7 @@ We've specifically engineered these systems to eliminate common frustrations - n
 - **Core Stack:** MiniOS Lite + MelonMed
 - **BerryTag:** `MB-SEED-06` (Wild Cucumber Pro Node)
 - **Processor:** Intel Celeron N5100 (4C/4T @1.1GHz base)
-- **RAM:** 4GB LPDDR4X-2933 (soldered)
+- **RAM:** 4GB LPDDR4X-2933 (1 of 2 DIMM)
 - **GPU:** Intel UHD Graphics (shared memory)
 - **Storage:** 64GB eMMC
 - **Ports:** 1x USB-C Gen1, 1x USB-A 2.0, HDMI 1.4b
